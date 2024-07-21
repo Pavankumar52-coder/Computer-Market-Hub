@@ -1,4 +1,4 @@
-# Computrt-Market-Hub
+# Computer-Market-Hub
 To run the code..
 step-1: Open any python code editor.
 step-2: open the code files in that code editor including, pdf and json files.
